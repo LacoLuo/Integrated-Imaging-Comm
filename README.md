@@ -7,7 +7,7 @@ Reconfigurable intelligent surfaces, with their large number of antennas, offer 
 # Code Package Content
 
 **Data**
-- The data used in this package can be found in this [Dropbox folder](https://www.dropbox.com/scl/fo/vwmn39s98iyi20ghnep4u/AB_cAXIXQ3WWO6jlHfSkNs0?rlkey=16ji2helunfkn4payxyucb3gy&dl=0). Please download these files to this repository.
+- The data used in this package can be found in this [Dropbox folder](https://www.dropbox.com/scl/fo/vwmn39s98iyi20ghnep4u/AB_cAXIXQ3WWO6jlHfSkNs0?rlkey=16ji2helunfkn4payxyucb3gy&dl=0). Please download these files to the current repository.
 - The Blender and Wireless Insite files of the samples can be found in this [Dropbox folder](https://www.dropbox.com/scl/fo/vzhmko7020cm0bawnwzga/AK9zmT8cKAfY3ivIuR68ESg?rlkey=mwpbiv47gq7h1pjnppzpciusk&dl=0). These files can be used to generate range/depth maps with the scripts in this [repository](https://github.com/LacoLuo/RIS-Depth-Estimation).
 
 **Background subtraction of scene depth map**
